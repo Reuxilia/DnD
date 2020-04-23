@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Half-Tabaxi</name>
+		<description>The content for Half-Tabaxi</description>
+		<update version="0.1.0">
+			<file name="Half-tabaxi.index" url="https://raw.githubusercontent.com/Reuxilia/DnD/master/Half-Tabaxi.index" />
+		</update>
+	</info>
+	<files>
+		<file name="Half-Tabaxi" url="https://raw.githubusercontent.com/Reuxilia/DnD/master/Half-Tabaxi.xml" />
+	</files>
+</index>
