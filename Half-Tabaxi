@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Half-Tabaxi</name>
+		<description></description>
+	</info>
+	<element name="Half-Tabaxi" type="Race" source="Homebrew" id="ID_HMBRW_RACE_HALF_TABAXI">
+		<description>
+			<p class="flavor">Humans are constantly evolving and are known to adapt toall kinds of circumstancs. Although it is a very rareoccurance, some have managed to procreate with Tabaxi.Their offspring inherit traits from both parents, but usuallyone side is more predominant than the other. A half-tabaxigains physical abilities from their catlike parent as well asthe flexibility of a human.</p>
+			<h4>FIRST OF THEIR KIND</h4>
+			<p>The half-tabaxi are a new breed of creatures, even if their parent races have existed for a long time. Some speculate that this hybrid race already existed for decades and simply decided to live far away from most societies, hidden away from the world's sight. But in recent years more and more were seen walking the streets of larger cities and villages.</p>
+			<h4>MORE CAT THAN TABAXI</h4>
+			<p>Even if tabaxi are generally known as catfolk, most of them would probably resent being compared to a simple cat. The half-tabaxi on the other hand resemble those animals a lotmore. They've lost most of their tabaxi features and became more human. Some don't have a single patch of furon their body or completely lost their claws.</p>
+			<p class="indent"></p>
+			<h4>EAGER TO EXPLORE</h4>
+			<p>Being part human and part tabaxi, it's natural for them to develop a strong wanderlust. The world has a lot to offer and half-tabaxi would like to see every faces of it. They value experiences over coin and tend to be more inclined to take risks.</p>
+			<p class="indent">Depending on the individual, some half-tabaxi enjoy learning from books as much as first-hand experiences. It's hard to guess their motivation as they tend to be as complex as their human ancestors when it comes to reasoning.</p>
+			<h4>LOYAL COMPANIONS</h4>
+			<p>Some half-tabaxi may be hard to convince, but once someone earned their trust, they're going to be loyal friends for life. They prefer travelling with groups of people and know that strength doesn't lie in numbers, but in unity.Therefore most try to get along with everyone around them. Even if they dislike an individual, they rather see them as a friendly rival than an enemy.</p>
+			<p class="indent"></p>
+			<h4>HALF-TABAXI NAMES</h4>
+			<p>Naming conventions haven't been fully established for this rare race, but most seem to carry two names. One of which is derived from their human parent's side to align with whatever is culturally appropriate in their homeland.</p>
+			<p class="indent"></p>
+			<p><b>Tabaxi Names: </b>(Male) Bor, Malark, Shaumar, Wen,Zasheir; (female) Alethra, Hama, Ling, Navarra, Selise.</p>
+			<h5>HALF-TABAXI OBSESSIONS</h5>
+			<table>
+				<thead>
+					<tr> <td>d8</td><td>My curiosity is currently fixed on ...</td> </tr>
+				</thead>
+				<tr><td>1</td><td>A god or planar entity</td></tr>
+				<tr><td>2</td><td>A monster</td></tr>
+				<tr><td>3</td><td>A lost civilization</td></tr>
+				<tr><td>4</td><td>A wizard’s secrets</td></tr>
+				<tr><td>5</td><td>A mundane item</td></tr>
+				<tr><td>6</td><td>A magic item</td></tr>
+				<tr><td>1</td><td>A location</td></tr>
+				<tr><td>8</td><td>A legend or tale</td></tr>
+			</table> 
+			<h5>HALF-TABAXI QUIRKS</h5>
+			<table>
+				<thead> <tr><td>d10</td><td>Quirk</td></tr> </thead>
+				<tr><td>1</td><td>You miss your tropical home and complain endlessly about the freezing, weather, even in summer.</td></tr>
+				<tr><td>2</td><td>You never wear the same outfit twice, unless you absolutely must.</td></tr>
+				<tr><td>3</td><td>You have a minor phobta of water and hate getting wet.</td></tr>
+				<tr><td>4</td><td>Your tail always betrays your inner thoughts.</td></tr>
+				<tr><td>5</td><td>You purr loudfy when you are happy.</td></tr>
+				<tr><td>6</td><td>You keep a small ball of yarn in your hand, which you constantly fidget with.</td></tr>
+				<tr><td>7</td><td>You are always in debt, since you spend your gold on lavish parties and gifts for friends.</td></tr>
+				<tr><td>8</td><td>When talking about something you’re obsessed with, you speak quickly and never pause and others can’t understand you.</td></tr>
+				<tr><td>9</td><td>You are a font of random trivia from the lore and stories you have discovered.</td></tr>
+				<tr><td>10</td><td>You can’t help but pocket interesting objects you come across.</td></tr>
+			</table> 
+			<h4>HALF-TABAXI TRAITS</h4>
+			<p>Your half-tabaxi character has the following racial traits.</p>
+			<p>
+			<span class="feature">Ability Score Increase.</span>Your Dexterity score increases by 2, and one other ability score increases by 1.<br/>
+			<span class="feature">Age.</span>Half-Tabaxi have lifespans equivalent to humans. Alignment. As most catfolk, half-tabaxi tend toward chaotic alignments, as they are impulsive and often stubborn. Whether they are good, evil or anything in-between depends largely on their social environment.<br/>
+			<span class="feature">Size.</span>Depending on the more dominant side of your character, they're either a similar size to most humans or slightly taller and leaner. Your size is Medium.<br/>
+			<span class="feature">Speed.</span>Your base walking speed is 30 feet.<br/>
+			<span class="feature">Darkvision.</span>Since you are part tabaxi, you have their superior vision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.<br/>
+			<span class="feature">Cat's Claws.</span>Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are naturalweapons, which you can use to make unarmed strikes. Ifyou hit with them, you deal slashing damage equal to ld4 +your Strength modifier, instead of the bludgeoning damagenormal for an unarmed strike.<br/>
+			<span class="feature">Moody Feline.</span>Tabaxi are known for their mood swings and half-tabaxi are generally better at managing their emotions. You have proficiency in either the Intimidation or Persuasion skill. You can switch this proficiency after every long rest if you wish to, depending on your character's mood.<br/>
+			<span class="feature">Superior Hearing.</span>You have human ears as well as apair of catlike ears. You have proficiency in the Perception skill and advantage on Perception checks that rely onhearing.<br/>
+			<span class="feature">Languages.</span>You can speak, read, and write Common and one other language of your choice.<br/>
+			</p>
+		</description>
+		<sheet display="false"/>
+		<setters>
+			<set name="names" type="male">Cloud on the Mountaintop, Five Timber, Jade Shoe, Left-Handed Hummingbird, Seven Thundercloud, Skirt of Snakes, Smoking Mirror</set>
+			<set name="names" type="clan">Bright Cliffs, Distant Rain, Mountain Tree, Rumbling River, Snoring Mountain</set>
+			<set name="names-format">{{name}}</set>
+			<set name="height" modifier="2d12">4’8"</set>
+			<set name="weight" modifier="2d4">100 lb.</set>
+		</setters>
+		<rules>
+			<stat name="dexterity" value="2"/>
+			<stat name="charisma" value="1"/>
+			<stat name="innate speed" value="30" bonus="base"/>
+			<grant type="Vision" id="ID_VISION_DARKVISION" />
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" />
+			<select type="Language" name="Language (Tabaxi)" supports="Standard||Exotic" />
+			<grant type="Racial Trait" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_FELINE_AGILITY" />
+			<grant type="Racial Trait" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_CATS_CLAWS" />
+			<grant type="Racial Trait" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_CATS_TALENT" />
+		</rules>
+	</element>
+	<element name="Cat’s Claws" type="Racial Trait" source="Volo’s Guide to Monsters" id="ID_WOTC_VGTM_RACIAL_TRAIT_TAXBAXI_CATS_CLAWS">
+		<description>
+			<p>Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p>
+		</description>
+		<sheet>
+			<description>Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4+{{strength:modifier}}, instead of the bludgeoning damage normal for an unarmed strike.</description>
+		</sheet>
+		<rules>
+			<stat name="innate speed:climb" value="20" bonus="base" />
+		</rules>
+	</element>
+	<element name="Super Hearing" type="Racial Trait" source="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_SUPER_HEARING">
+		<description>
+			<p>You have proficiency in the Perception skill and advantage on Perception checks that rely onhearing.</p>
+		</description>
+		<sheet>
+			<description>You have human ears as well as apair of catlike ears. You have proficiency in the Perception skill and advantage on Perception checks that rely onhearing.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_PERCEPTION" />
+		</rules>
+	</element>  
+</elements>
