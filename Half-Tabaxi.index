@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
 	<info>
-		<name>Half-Tabaxi</name>
-		<description>The content for Half-Tabaxi</description>
+		<name>Test</name>
+		<description>Testing.</description>
+		<author url="hhttps://github.com/Reuxilia">Reuxilia</author>
 		<update version="0.1.0">
-			<file name="Half-tabaxi.index" url="https://raw.githubusercontent.com/Reuxilia/DnD/master/Half-Tabaxi.index" />
+			<file name="Half-Tabaxi.index" url="https://raw.githubusercontent.com/Reuxilia/DnD/master/Half-Tabaxi.index" />
 		</update>
 	</info>
 	<files>
-		<file name="Half-Tabaxi.xml" url="https://raw.githubusercontent.com/Reuxilia/DnD/master/Half-Tabaxi.xml" />
+		<obsolete name="half-tabaxi.xml" url="https://github.com/Reuxilia/DnD/blob/master/Half-Tabaxi.xml" />
+		<file name="dungeon-masters-guide.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/dungeon-masters-guide.index" />
+		<file name="monster-manual.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/monster-manual.index" />
+		<file name="players-handbook.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook.index" />
 	</files>
 </index>
