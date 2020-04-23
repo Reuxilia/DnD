@@ -8,6 +8,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="Half-Tabaxi" url="https://raw.githubusercontent.com/Reuxilia/DnD/master/Half-Tabaxi.xml" />
+		<file name="Half-Tabaxi.xml" url="https://raw.githubusercontent.com/Reuxilia/DnD/master/Half-Tabaxi.xml" />
 	</files>
 </index>
